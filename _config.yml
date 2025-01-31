@@ -1,3 +1,12 @@
 name: sbomgen
 baseurl: /sbomgen
-title: <p>SBOMgen<img align=right src="/sbomgen/assets/images/cybeats.logo.svg" alt="sbomgen" height="50" width="450"></p>
+theme: just-the-docs
+title: <p style="text-align:center"><b><font color="green">SBOMgen</font></b></p>
+color_scheme: custom
+favicon_ico: "/assets/images/cybeats.ico"
+back_to_top: true
+back_to_top_text: "Back to top"
+nav:
+  - title: Home
+    url: /README.md
+    

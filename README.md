@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 1
+permalink: /
+---
+
 # List of SBOM Generation Tools
 
 Tutorials of these tools are featured in the ``tutorials/`` folder.
