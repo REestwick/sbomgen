@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Note: CycloneDX-Conan is now archived as of 02/10/2023
 
 

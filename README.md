@@ -1,11 +1,10 @@
 ---
 title: Home
 nav_order: 1
-permalink: /
+permalink: / 
 ---
 
 # List of SBOM Generation Tools
-
 Tutorials of these tools are featured in the ``tutorials/`` folder.
 
 ## Table of Contents

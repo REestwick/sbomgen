@@ -1,3 +1,5 @@
+# Creating SBOMs From Images Using Tern
+
 ## Introduction
 
 This tutorial illustrates how to create SBOMs from containers using the tern CLI.
