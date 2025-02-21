@@ -99,6 +99,10 @@ To generate SBOMs for Rust projects, you can use:
 
 * To generate SBOM for package or system, use the [Distro2SBOM](tutorials/creating-distro-sbom/creating-distro-sbom.md) tool.
 
+### meta-wr-sbom
+
+* To generate SBOM for Yocto projects, use the [meta-wr-sbom](tutorials/creating-yocto-sbom/creating-yocto-sbom.md) tool.
+
 ## Multi-Language
 
 * [Cdxgen](tutorials/multi-lang/cdxgen-tool/creating-cdxgen-sbom.md) is a tool used to create SBOMs from a variety of languages and frameworks including Python, Java, Node.js/Javascript, Rust, Elixir, etc.
