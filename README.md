@@ -46,6 +46,11 @@ Tutorials of these tools are featured in the ``tutorials/`` folder.
  
 * To generate SBOM for Node.js Yarn projects, use [Cyclonedx Yarn Module](tutorials/creating-yarn-sbom/creating-yarn-sbom.md).
 
+
+### Webpack
+
+To generate SBOM for Webpack projects, use [CycloneDX-Webpack-Plugin](tutorials/creating-webpack-sbom/creating-webpack-sbom.md).
+
 ## Objective-C/Swift
 
 ### Cocoapod
