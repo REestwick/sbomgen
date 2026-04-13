@@ -1,3 +1,5 @@
 _site/
 _posts/
 Gemfile.lock
+.DS_Store
+tutorial/.DS_store

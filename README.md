@@ -121,6 +121,8 @@ To generate SBOMs for Rust projects, you can use:
 * Microsoft [Sbom-Tool](tutorials/multi-lang/microsoft-sbom-tool/creating-microsoft-sbom.md) is capable of auto-detecting NPM, NuGet, PyPI, CocoaPods, Maven, Golang, Rust Crates, RubyGems, Linux packages within containers, Gradle, Ivy, GitHub public repositories, and more through Component Detection and generates SBOMs for the project.
 * The GitHub [gh CLI SBOM Extension](tutorials/multi-lang/github-gh-sbom/creating-gh-sbom.md) is capable of creating SBOMs from a variety of languages, once the project is in a GitHub repository.
 
+* The [cve-bin-tool](tutorials/multi-lang/cve-bin-tool/creating-cve-bin-tool-sbom.md) can generate SBOMs from numerous programming languages.
+
 ## Cryptographic Bill of Materials
 
 * A Cryptographic Bill of Materials (CBOM) can be created using the [cryptobom-forge](tutorials/cbom/creating-cbom/creating-cryptographic-bill-of-materials.md) CLI.
